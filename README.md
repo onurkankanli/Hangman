@@ -1,2 +1,2 @@
 # Hangman
-Hangman game in .NET Core 5.0 with using Blazor
+Hangman game using C# in .NET WPF application.
